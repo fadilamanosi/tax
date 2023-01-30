@@ -7,18 +7,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-##  Laravel vite, Inertia, vue, ziggy and tailwind all in one pre configured
+##  Tax calculator
 
-This repo is a preconfigured complete laravel vite, vue, inerta and tailwind package 
+Web platform for calculating tax.
 
-Just fork repo then pull to your localhost. 
-Make sure you have the latest nodejs or ^16 installed and all php needed
- laravel extensions are installed. 
-
-## Usage
-    * npm i
-    * composer install
-    * php artisan serve
-    * npm run dev
 
 
